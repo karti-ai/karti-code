@@ -1,6 +1,6 @@
 {
-  "name": "karticode",
-  "version": "1.0.0",
+  "name": "@karti-ai/karti-code",
+  "version": "0.1.0",
   "description": "Karti.ai's OpenCode plugin - wraps oh-my-opencode with custom MCPs and agents",
   "main": "./dist/index.js",
   "types": "dist/index.d.ts",
